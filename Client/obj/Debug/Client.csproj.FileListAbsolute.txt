@@ -1,0 +1,16 @@
+D:\Learn\Redis\Client\bin\Pic.dll.config
+D:\Learn\Redis\Client\bin\Pic.dll
+D:\Learn\Redis\Client\bin\Pic.pdb
+D:\Learn\Redis\Client\bin\RedisStudy.dll
+D:\Learn\Redis\Client\bin\ServiceStack.Common.dll
+D:\Learn\Redis\Client\bin\ServiceStack.dll
+D:\Learn\Redis\Client\bin\ServiceStack.Interfaces.dll
+D:\Learn\Redis\Client\bin\ServiceStack.OrmLite.dll
+D:\Learn\Redis\Client\bin\ServiceStack.OrmLite.SqlServer.dll
+D:\Learn\Redis\Client\bin\ServiceStack.Redis.dll
+D:\Learn\Redis\Client\bin\ServiceStack.ServiceInterface.dll
+D:\Learn\Redis\Client\bin\ServiceStack.Text.dll
+D:\Learn\Redis\Client\bin\RedisStudy.pdb
+D:\Learn\Redis\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Learn\Redis\Client\obj\Debug\Pic.dll
+D:\Learn\Redis\Client\obj\Debug\Pic.pdb

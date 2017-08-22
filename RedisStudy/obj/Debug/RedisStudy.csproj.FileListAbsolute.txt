@@ -1,0 +1,49 @@
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\RedisStudy\bin\Debug\RedisStudy.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\RedisStudy\bin\Debug\RedisStudy.pdb
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\RedisStudy\bin\Debug\ServiceStack.Common.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\RedisStudy\bin\Debug\ServiceStack.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\RedisStudy\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\RedisStudy\bin\Debug\ServiceStack.OrmLite.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\RedisStudy\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\RedisStudy\bin\Debug\ServiceStack.Redis.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\RedisStudy\bin\Debug\ServiceStack.ServiceInterface.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\RedisStudy\bin\Debug\ServiceStack.Text.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\RedisStudy\obj\Debug\RedisStudy.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\RedisStudy\obj\Debug\RedisStudy.pdb
+D:\demo\RedisStudy\bin\Debug\RedisStudy.dll
+D:\demo\RedisStudy\bin\Debug\RedisStudy.pdb
+D:\demo\RedisStudy\bin\Debug\ServiceStack.Common.dll
+D:\demo\RedisStudy\bin\Debug\ServiceStack.dll
+D:\demo\RedisStudy\bin\Debug\ServiceStack.Interfaces.dll
+D:\demo\RedisStudy\bin\Debug\ServiceStack.OrmLite.dll
+D:\demo\RedisStudy\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\demo\RedisStudy\bin\Debug\ServiceStack.Redis.dll
+D:\demo\RedisStudy\bin\Debug\ServiceStack.ServiceInterface.dll
+D:\demo\RedisStudy\bin\Debug\ServiceStack.Text.dll
+D:\demo\RedisStudy\obj\Debug\RedisStudy.dll
+D:\demo\RedisStudy\obj\Debug\RedisStudy.pdb
+D:\Learn\demo\RedisStudy\bin\Debug\RedisStudy.dll
+D:\Learn\demo\RedisStudy\bin\Debug\RedisStudy.pdb
+D:\Learn\demo\RedisStudy\bin\Debug\ServiceStack.Common.dll
+D:\Learn\demo\RedisStudy\bin\Debug\ServiceStack.dll
+D:\Learn\demo\RedisStudy\bin\Debug\ServiceStack.Interfaces.dll
+D:\Learn\demo\RedisStudy\bin\Debug\ServiceStack.OrmLite.dll
+D:\Learn\demo\RedisStudy\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\Learn\demo\RedisStudy\bin\Debug\ServiceStack.Redis.dll
+D:\Learn\demo\RedisStudy\bin\Debug\ServiceStack.ServiceInterface.dll
+D:\Learn\demo\RedisStudy\bin\Debug\ServiceStack.Text.dll
+D:\Learn\demo\RedisStudy\obj\Debug\RedisStudy.dll
+D:\Learn\demo\RedisStudy\obj\Debug\RedisStudy.pdb
+D:\Learn\Redis\RedisStudy\bin\Debug\RedisStudy.dll
+D:\Learn\Redis\RedisStudy\bin\Debug\RedisStudy.pdb
+D:\Learn\Redis\RedisStudy\bin\Debug\ServiceStack.Common.dll
+D:\Learn\Redis\RedisStudy\bin\Debug\ServiceStack.dll
+D:\Learn\Redis\RedisStudy\bin\Debug\ServiceStack.Interfaces.dll
+D:\Learn\Redis\RedisStudy\bin\Debug\ServiceStack.OrmLite.dll
+D:\Learn\Redis\RedisStudy\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\Learn\Redis\RedisStudy\bin\Debug\ServiceStack.Redis.dll
+D:\Learn\Redis\RedisStudy\bin\Debug\ServiceStack.ServiceInterface.dll
+D:\Learn\Redis\RedisStudy\bin\Debug\ServiceStack.Text.dll
+D:\Learn\Redis\RedisStudy\obj\Debug\RedisStudy.dll
+D:\Learn\Redis\RedisStudy\obj\Debug\RedisStudy.pdb
+D:\Learn\Redis\RedisStudy\obj\Debug\RedisStudy.csprojResolveAssemblyReference.cache

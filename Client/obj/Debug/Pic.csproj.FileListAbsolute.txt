@@ -1,0 +1,50 @@
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\bin\Pic.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\bin\Pic.pdb
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\bin\RedisStudy.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\bin\ServiceStack.Common.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\bin\ServiceStack.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\bin\ServiceStack.Interfaces.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\bin\ServiceStack.OrmLite.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\bin\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\bin\ServiceStack.Redis.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\bin\ServiceStack.ServiceInterface.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\bin\ServiceStack.Text.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\bin\RedisStudy.pdb
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\obj\Debug\Pic.csprojResolveAssemblyReference.cache
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\obj\Debug\Interop.MODI.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\obj\Debug\Pic.csproj.ResolveComReference.cache
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\obj\Debug\Pic.dll
+C:\Users\XCL-PC\Documents\visual studio 2010\Projects\demo\Pic\obj\Debug\Pic.pdb
+D:\demo\Pic\bin\Pic.dll
+D:\demo\Pic\bin\Pic.pdb
+D:\demo\Pic\bin\RedisStudy.dll
+D:\demo\Pic\bin\ServiceStack.Common.dll
+D:\demo\Pic\bin\ServiceStack.dll
+D:\demo\Pic\bin\ServiceStack.Interfaces.dll
+D:\demo\Pic\bin\ServiceStack.OrmLite.dll
+D:\demo\Pic\bin\ServiceStack.OrmLite.SqlServer.dll
+D:\demo\Pic\bin\ServiceStack.Redis.dll
+D:\demo\Pic\bin\ServiceStack.ServiceInterface.dll
+D:\demo\Pic\bin\ServiceStack.Text.dll
+D:\demo\Pic\bin\RedisStudy.pdb
+D:\demo\Pic\obj\Debug\Pic.csprojResolveAssemblyReference.cache
+D:\demo\Pic\obj\Debug\Interop.MODI.dll
+D:\demo\Pic\obj\Debug\Pic.csproj.ResolveComReference.cache
+D:\demo\Pic\obj\Debug\Pic.dll
+D:\demo\Pic\obj\Debug\Pic.pdb
+D:\Learn\Redis\Pic\bin\Pic.dll.config
+D:\Learn\Redis\Pic\bin\Pic.dll
+D:\Learn\Redis\Pic\bin\Pic.pdb
+D:\Learn\Redis\Pic\bin\RedisStudy.dll
+D:\Learn\Redis\Pic\bin\ServiceStack.Common.dll
+D:\Learn\Redis\Pic\bin\ServiceStack.dll
+D:\Learn\Redis\Pic\bin\ServiceStack.Interfaces.dll
+D:\Learn\Redis\Pic\bin\ServiceStack.OrmLite.dll
+D:\Learn\Redis\Pic\bin\ServiceStack.OrmLite.SqlServer.dll
+D:\Learn\Redis\Pic\bin\ServiceStack.Redis.dll
+D:\Learn\Redis\Pic\bin\ServiceStack.ServiceInterface.dll
+D:\Learn\Redis\Pic\bin\ServiceStack.Text.dll
+D:\Learn\Redis\Pic\bin\RedisStudy.pdb
+D:\Learn\Redis\Pic\obj\Debug\Pic.csprojResolveAssemblyReference.cache
+D:\Learn\Redis\Pic\obj\Debug\Pic.dll
+D:\Learn\Redis\Pic\obj\Debug\Pic.pdb

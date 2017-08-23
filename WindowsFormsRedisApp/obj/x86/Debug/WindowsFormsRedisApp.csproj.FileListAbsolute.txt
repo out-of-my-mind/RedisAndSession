@@ -34,3 +34,15 @@ D:\Learn\Redis\WindowsFormsRedisApp\obj\x86\Debug\WindowsFormsRedisApp.csprojRes
 D:\Learn\Redis\WindowsFormsRedisApp\obj\x86\Debug\WindowsFormsRedisApp.Form1.resources
 D:\Learn\Redis\WindowsFormsRedisApp\obj\x86\Debug\WindowsFormsRedisApp.Properties.Resources.resources
 D:\Learn\Redis\WindowsFormsRedisApp\obj\x86\Debug\WindowsFormsRedisApp.csproj.GenerateResource.Cache
+D:\Learn\RedisAndSession\WindowsFormsRedisApp\bin\Debug\WindowsFormsRedisApp.exe.config
+D:\Learn\RedisAndSession\WindowsFormsRedisApp\obj\x86\Debug\WindowsFormsRedisApp.exe
+D:\Learn\RedisAndSession\WindowsFormsRedisApp\obj\x86\Debug\WindowsFormsRedisApp.pdb
+D:\Learn\RedisAndSession\WindowsFormsRedisApp\bin\Debug\WindowsFormsRedisApp.exe
+D:\Learn\RedisAndSession\WindowsFormsRedisApp\bin\Debug\WindowsFormsRedisApp.pdb
+D:\Learn\RedisAndSession\WindowsFormsRedisApp\bin\Debug\RedisStudy.dll
+D:\Learn\RedisAndSession\WindowsFormsRedisApp\bin\Debug\ServiceStack.Interfaces.dll
+D:\Learn\RedisAndSession\WindowsFormsRedisApp\bin\Debug\RedisStudy.pdb
+D:\Learn\RedisAndSession\WindowsFormsRedisApp\obj\x86\Debug\WindowsFormsRedisApp.csprojResolveAssemblyReference.cache
+D:\Learn\RedisAndSession\WindowsFormsRedisApp\obj\x86\Debug\WindowsFormsRedisApp.Form1.resources
+D:\Learn\RedisAndSession\WindowsFormsRedisApp\obj\x86\Debug\WindowsFormsRedisApp.Properties.Resources.resources
+D:\Learn\RedisAndSession\WindowsFormsRedisApp\obj\x86\Debug\WindowsFormsRedisApp.csproj.GenerateResource.Cache

@@ -92,7 +92,7 @@ namespace WindowsFormsRedisApp
                 //不存在
                 if (type.Equals(1))
                 {
-                    Process.Start("D:\\Learn\\redis-2.4.5-win32-win64\\64bit\\redis-server.exe");
+                    Process.Start(AppDomain.CurrentDomain.BaseDirectory + @"redis-2.4.5-win32-win64\64bit\redis-server.exe");
                     result = true;
                 }
             }

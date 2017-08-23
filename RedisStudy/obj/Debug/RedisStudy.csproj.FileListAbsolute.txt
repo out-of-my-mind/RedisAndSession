@@ -47,3 +47,15 @@ D:\Learn\Redis\RedisStudy\bin\Debug\ServiceStack.Text.dll
 D:\Learn\Redis\RedisStudy\obj\Debug\RedisStudy.dll
 D:\Learn\Redis\RedisStudy\obj\Debug\RedisStudy.pdb
 D:\Learn\Redis\RedisStudy\obj\Debug\RedisStudy.csprojResolveAssemblyReference.cache
+D:\Learn\RedisAndSession\RedisStudy\bin\Debug\RedisStudy.dll
+D:\Learn\RedisAndSession\RedisStudy\bin\Debug\RedisStudy.pdb
+D:\Learn\RedisAndSession\RedisStudy\bin\Debug\ServiceStack.Common.dll
+D:\Learn\RedisAndSession\RedisStudy\bin\Debug\ServiceStack.dll
+D:\Learn\RedisAndSession\RedisStudy\bin\Debug\ServiceStack.Interfaces.dll
+D:\Learn\RedisAndSession\RedisStudy\bin\Debug\ServiceStack.OrmLite.dll
+D:\Learn\RedisAndSession\RedisStudy\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+D:\Learn\RedisAndSession\RedisStudy\bin\Debug\ServiceStack.Redis.dll
+D:\Learn\RedisAndSession\RedisStudy\bin\Debug\ServiceStack.ServiceInterface.dll
+D:\Learn\RedisAndSession\RedisStudy\bin\Debug\ServiceStack.Text.dll
+D:\Learn\RedisAndSession\RedisStudy\obj\Debug\RedisStudy.dll
+D:\Learn\RedisAndSession\RedisStudy\obj\Debug\RedisStudy.pdb

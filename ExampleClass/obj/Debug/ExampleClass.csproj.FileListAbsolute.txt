@@ -1,0 +1,5 @@
+D:\Learn\RedisAndSession\ExampleClass\bin\Debug\ExampleClass.dll
+D:\Learn\RedisAndSession\ExampleClass\bin\Debug\ExampleClass.pdb
+D:\Learn\RedisAndSession\ExampleClass\obj\Debug\ExampleClass.csprojResolveAssemblyReference.cache
+D:\Learn\RedisAndSession\ExampleClass\obj\Debug\ExampleClass.dll
+D:\Learn\RedisAndSession\ExampleClass\obj\Debug\ExampleClass.pdb

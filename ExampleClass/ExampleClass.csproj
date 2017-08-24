@@ -44,6 +44,12 @@
     <Compile Include="example1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RedisStudy\RedisStudy.csproj">
+      <Project>{c36dea96-759b-4222-aed7-20824c2db531}</Project>
+      <Name>RedisStudy</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

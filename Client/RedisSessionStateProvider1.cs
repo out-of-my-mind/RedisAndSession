@@ -9,6 +9,7 @@ using System.Data;
 using System.Data.Odbc;
 using System.Diagnostics;
 using System.IO;
+using ServiceStack.Redis;
 
 
 /*
@@ -71,7 +72,7 @@ namespace ExampleClass
         // Initialize values from web.config.
         //
         if (config == null)
-        throw new ArgumentNullException("config");
+            throw new ArgumentNullException("config");
 
         if (name == null || name.Length == 0)
         name = "OdbcSessionStateStore";
@@ -155,6 +156,7 @@ namespace ExampleClass
 
         if (newItem)
         {
+            IRedisClient IRedisC = RedisStudy.RedisManager.GetClient();
             // 删除  同一区间、已经过期、同一标识的会话
             deleteCmd = new OdbcCommand("DELETE FROM Sessions " + "WHERE SessionId = ? AND ApplicationName = ? AND Expires < ?", conn);
             deleteCmd.Parameters.Add("@SessionId", OdbcType.VarChar, 80).Value = id;

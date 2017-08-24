@@ -59,3 +59,4 @@ D:\Learn\RedisAndSession\RedisStudy\bin\Debug\ServiceStack.ServiceInterface.dll
 D:\Learn\RedisAndSession\RedisStudy\bin\Debug\ServiceStack.Text.dll
 D:\Learn\RedisAndSession\RedisStudy\obj\Debug\RedisStudy.dll
 D:\Learn\RedisAndSession\RedisStudy\obj\Debug\RedisStudy.pdb
+D:\Learn\RedisAndSession\RedisStudy\obj\Debug\RedisStudy.csprojResolveAssemblyReference.cache

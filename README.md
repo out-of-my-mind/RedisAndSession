@@ -8,7 +8,7 @@
 >>RedisSessionStateProvider.cs //重载 session会话类
 >>WebForm1.aspx //用户登入会话首页
 >  
->Example  //一些在使用到的源代码，也就是使用到的重载类 
+>ExampleClass  //一些在使用到的源代码，也就是使用到的重载类 
 >   
 >RedisStudy  //ServiceStack.Redis 封装的类  
 >  
@@ -19,3 +19,4 @@
 #### 更新日志
 >##### 2017-08-22 上传了简单的demo，实现用户会话保存到Redis，并展示会话
 >##### 2017-08-23 上传了redis程序，更改了redis程序路径
+>##### 2017-08-24 更改了之前的源代码实例

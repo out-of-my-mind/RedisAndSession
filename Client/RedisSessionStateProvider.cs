@@ -52,7 +52,7 @@ namespace RedisProvider.SessionProvider
             {
                 if (!string.IsNullOrEmpty(this.redisPassword))
                 {
-                    return new RedisClient(this.redisServer, this.redisPort, this.redisPassword);
+                    return new RedisClient(this.redisServer, this.redisPort, this.redisPassword, redisDB);
                 }
                 return new RedisClient(this.redisServer, this.redisPort, null, redisDB);
             }
